@@ -10,4 +10,4 @@ BeerJS Yerevan, Armenia
 
 | #   | Date               | Place                      |
 |-----|--------------------|----------------------------|
-| 131 | August 31, 2023      | Esthetic Joys Embassy     |
+| 42 | August 31, 2023      | Esthetic Joys Embassy     |
