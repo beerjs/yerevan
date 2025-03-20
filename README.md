@@ -8,18 +8,19 @@ BeerJS Yerevan, Armenia
 
 ## Releases
 
-| #   | Date               | Place                      |
-|-----|--------------------|----------------------------|
-| 49 | August 29, 2024     | Bardak                     |
-| 48 | July 26, 2024       | 379 Torch And Brew         |
-| 47 | May 16, 2024        | Dors                       |
-| 46 | April 11, 2024      | Freemans                   |
-| 45 | March 1, 2024       | Dors                       |
-| 44 | November 17, 2023   | 1320                       |
-| 43 | October 12, 2023    | 1883                       |
-| 42 | September 7, 2023   | 379 Torch And Brew         |
-| 41 | August 31, 2023     | Esthetic Joys Embassy      |
-| 40 | August 17, 2023     | Gala Sidreria              |
+| #  | Date                | Place                      |
+|----|---------------------|----------------------------|
+| 50 | March 20, 2025      |  Food industry             |
+| 49 | August 29, 2024     |  Bardak                    |
+| 48 | July 26, 2024       |  379 Torch And Brew        |
+| 47 | May 16, 2024        |  Dors                      |
+| 46 | April 11, 2024      |  Freemans                  |
+| 45 | March 1, 2024       |  Dors                      |
+| 44 | November 17, 2023   |  1320                      |
+| 43 | October 12, 2023    |  1883                      |
+| 42 | September 7, 2023   |  379 Torch And Brew        |
+| 41 | August 31, 2023     |  Esthetic Joys Embassy     |
+| 40 | August 17, 2023     |  Gala Sidreria             |
 | 39 | July 6, 2023        |  Esthetic Joys Embassy     |
 | 38 | June 29, 2023       |  Aigi                      |
 | 37 | July 15, 2023       |  Vertigo                   |
