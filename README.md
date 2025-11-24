@@ -10,6 +10,8 @@ BeerJS Yerevan, Armenia
 
 | #  | Date                | Place                      |
 |----|---------------------|----------------------------|
+| 52 | October 24, 2025    |  Zithopia                  |
+| 51 | May 22, 2025        |  Gala Sidreria             |
 | 50 | March 20, 2025      |  Food industry             |
 | 49 | August 29, 2024     |  Bardak                    |
 | 48 | July 26, 2024       |  379 Torch And Brew        |
